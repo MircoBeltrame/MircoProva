@@ -24,4 +24,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: sun terzo script
-      run: echo Questo è il deploy dell'app!! Evviva
+      run: echo Questo è il deploy
