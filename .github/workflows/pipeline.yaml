@@ -18,4 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: sun secondo script
-      run: echo Questo è un test
+      run: echo Questo è un test  
+      
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: sun terzo script
+      run: echo Questo è il deploy dell'app!! Evviva
